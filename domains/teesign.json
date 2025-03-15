@@ -1,1 +1,8 @@
-
+{
+    "owner": {
+        "username": "teesignstore",
+        "email": "t33sign@gmail.com"
+    },
+    "record": {
+        "CNAME": "teesign.pages.dev"
+    }
